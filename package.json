@@ -1,0 +1,19 @@
+{
+  "name": "acrunner.github.io",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACRUNNER/ACRUNNER.github.io.git"
+  },
+  "author": "Anton Cwik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ACRUNNER/ACRUNNER.github.io/issues"
+  },
+  "homepage": "https://github.com/ACRUNNER/ACRUNNER.github.io#readme"
+}
